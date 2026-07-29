@@ -1,0 +1,1 @@
+Adds a zoom to the Camera, for CoolUI specifically.
